@@ -73,3 +73,4 @@
 
     echo $cane->presentazione();
     echo $cane->presentazione();
+    echo $cane->presentazione();
